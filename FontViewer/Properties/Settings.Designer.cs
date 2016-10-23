@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Background.Properties
+namespace FontViewer.Properties
 {
 
 
